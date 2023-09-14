@@ -5,5 +5,6 @@ def sumMultiples3or5(target: int):
   
 
 
+print(sumMultiples3or5(1000))
 # assert sumMultiples3or5(10) == 23, "target 10, result should be 23"
 assert sumMultiples3or5(1000) == 233168, "target 1000, result should be 233168"
